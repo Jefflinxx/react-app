@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/remote-assignments/week-4/Q3/react-app/static/css/main.f749303f.css",
+    "main.js": "/remote-assignments/week-4/Q3/react-app/static/js/main.603b3e97.js",
+    "index.html": "/remote-assignments/week-4/Q3/react-app/index.html",
+    "main.f749303f.css.map": "/remote-assignments/week-4/Q3/react-app/static/css/main.f749303f.css.map",
+    "main.603b3e97.js.map": "/remote-assignments/week-4/Q3/react-app/static/js/main.603b3e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f749303f.css",
+    "static/js/main.603b3e97.js"
+  ]
+}
